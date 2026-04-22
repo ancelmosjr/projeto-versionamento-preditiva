@@ -1,0 +1,5 @@
+site_name: Versionamento de Projetos - Preditiva
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Git: git.md
